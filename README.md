@@ -109,31 +109,6 @@ const rizkkk = {
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
 
-<h2 align="center">Certifications</h2>
-
-<div align="center">
-
-**AWS Academy**
-
-![Cloud Developing](https://img.shields.io/badge/Cloud_Developing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Cloud Security Foundations](https://img.shields.io/badge/Cloud_Security_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![Machine Learning Foundations](https://img.shields.io/badge/Machine_Learning_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-![ML for NLP](https://img.shields.io/badge/ML_for_Natural_Language_Processing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
-
-**Cisco Networking Academy**
-
-![Computer Hardware Basics](https://img.shields.io/badge/Computer_Hardware_Basics-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-![Introduction to Modern AI](https://img.shields.io/badge/Introduction_to_Modern_AI-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
-
-**IBM SkillsBuild**
-
-![Build an AI Agent](https://img.shields.io/badge/Build_an_AI_Agent-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-![AI Agent for Programming](https://img.shields.io/badge/AI_Agent_for_Programming-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
-
-</div>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
-
 <h2 align="center">GitHub Stats</h2>
 
 <div align="center">
