@@ -53,9 +53,6 @@ const rizkkk = {
   name: "Rizky Dwi Rhamadani",
   role: "Web Developer",
   campus: "Universitas AMIKOM Yogyakarta",
-  stack: ["Laravel", "TypeScript", "Docker"],
-  learning: ["RBAC", "Security", "AI Agent"],
-  currentlyBuilding: "Portfolio & web projects",
   motto: "Build. Break. Learn. Repeat.",
 } as const;
 ```
@@ -98,10 +95,6 @@ const rizkkk = {
 <table align="center">
 <tr>
 <td align="center" width="170"><b>2026</b></td>
-<td>
-<b>Anggota Divisi Frontend Web Programming</b> · AMCC (AMIKOM Computer Club)<br/>
-<sub>April – Juli 2026</sub>
-</td>
 </tr>
 <tr>
 <td align="center"><b>2025 – Sekarang</b></td>
@@ -110,75 +103,9 @@ const rizkkk = {
 <sub>Konsentrasi Web Programming</sub>
 </td>
 </tr>
-<tr>
-<td align="center"><b>2025</b></td>
-<td>
-<b>Lulus MA Nurul Hidayah</b><br/>
-<sub>Jurusan IPA</sub>
-</td>
-</tr>
-<tr>
-<td align="center"><b>2023 – 2024</b></td>
-<td>
-<b>Ketua OSIS</b> · MA Nurul Hidayah<br/>
-<sub>Memimpin 25+ anggota</sub>
-</td>
-</tr>
 </table>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
-
-<h2 align="center">Featured Projects</h2>
-
-<table>
-<tr>
-<td width="50%" valign="top">
-
-### 📊 Sistem Rekapitulasi Nilai
-Sistem manajemen nilai akademik dengan **tiga peran pengguna** dan fokus pada UI/UX yang rapi.
-
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![Status](https://img.shields.io/badge/status-in_progress-f59e0b?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🔑 Auth Monolith
-Autentikasi dan **Role-Based Access Control** dengan arsitektur modular monolith.
-
-![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
-![RBAC](https://img.shields.io/badge/RBAC-1f6feb?style=flat-square)
-![Status](https://img.shields.io/badge/status-learning-a371f7?style=flat-square)
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🏥 Pencarian Faskes Terdekat
-Aplikasi untuk menemukan **rumah sakit, klinik, puskesmas, dan apotek** terdekat.
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-![Status](https://img.shields.io/badge/status-UI_phase-f59e0b?style=flat-square)
-
-</td>
-<td width="50%" valign="top">
-
-### 🛡️ Server Hardening
-Dokumentasi **hardening dan pengujian keamanan** pada Ubuntu Server.
-
-![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Security](https://img.shields.io/badge/Security-db2777?style=flat-square)
-![Status](https://img.shields.io/badge/status-documented-15803d?style=flat-square)
-
-</td>
-</tr>
-</table>
-
-> 💡 Tambahkan link repo pada judul project, contoh: `### [Auth Monolith](https://github.com/07rizkyramadani-debug/nama-repo)`
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
 
