@@ -14,8 +14,6 @@
 <a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="About" /></a>
 <a href="#tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-6e40c9?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack" /></a>
 <a href="#journey"><img src="https://img.shields.io/badge/JOURNEY-a371f7?style=for-the-badge&logo=timescale&logoColor=white" alt="Journey" /></a>
-<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-c2410c?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects" /></a>
-<a href="#certifications"><img src="https://img.shields.io/badge/CERTIFICATIONS-15803d?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Certifications" /></a>
 <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-db2777?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
 
 <br/><br/>
@@ -104,8 +102,6 @@ const rizkkk = {
 </td>
 </tr>
 </table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
 
