@@ -1,16 +1,249 @@
-## Hi there 👋
+<!-- Repo ini harus bernama sama dengan username: 07rizkyramadani-debug (Public) -->
+<!-- Ganti: LINKEDIN_USERNAME, INSTAGRAM_USERNAME, dan emailkamu@gmail.com -->
 
-<!--
-**07rizkyramadani-debug/07rizkyramadani-debug** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
 
-Here are some ideas to get you started:
+<img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1f3a8a,75:7c3aed,100:db2777&height=260&section=header&text=Rizky%20Dwi%20Rhamadani&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Web%20Developer%20%C2%B7%20Informatics%20Student%20%C2%B7%20Security%20Enthusiast&descAlignY=64&descSize=17&descColor=e6edf3" width="100%" alt="header" />
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=A371F7&center=true&vCenter=true&width=720&height=45&lines=Hi%2C+saya+Rizkkk+%F0%9F%91%8B;Membangun+aplikasi+web+yang+rapi+%26+aman;Laravel+%7C+TypeScript+%7C+Docker;Mahasiswa+D3+Teknik+Informatika+%40+AMIKOM;Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
+</a>
+
+<br/>
+
+<a href="#about-me"><img src="https://img.shields.io/badge/ABOUT-1f6feb?style=for-the-badge&logo=readme&logoColor=white" alt="About" /></a>
+<a href="#tech-stack"><img src="https://img.shields.io/badge/TECH_STACK-6e40c9?style=for-the-badge&logo=stackshare&logoColor=white" alt="Tech Stack" /></a>
+<a href="#journey"><img src="https://img.shields.io/badge/JOURNEY-a371f7?style=for-the-badge&logo=timescale&logoColor=white" alt="Journey" /></a>
+<a href="#featured-projects"><img src="https://img.shields.io/badge/PROJECTS-c2410c?style=for-the-badge&logo=rocket&logoColor=white" alt="Projects" /></a>
+<a href="#certifications"><img src="https://img.shields.io/badge/CERTIFICATIONS-15803d?style=for-the-badge&logo=awesomelists&logoColor=white" alt="Certifications" /></a>
+<a href="#contact"><img src="https://img.shields.io/badge/CONTACT-db2777?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
+
+<br/><br/>
+
+![Profile Views](https://komarev.com/ghpvc/?username=07rizkyramadani-debug&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/07rizkyramadani-debug?style=for-the-badge&logo=github&color=1f6feb&label=FOLLOWERS)
+![Stars](https://img.shields.io/github/stars/07rizkyramadani-debug?style=for-the-badge&logo=github&color=db2777&label=STARS)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
+
+<h2 align="center">About Me</h2>
+
+<table>
+<tr>
+<td width="52%" valign="top">
+
+Halo! Saya mahasiswa **D3 Teknik Informatika** di **Universitas AMIKOM Yogyakarta** dengan konsentrasi **Web Programming**.
+
+Saya senang membangun aplikasi web yang **rapi, aman, dan mudah dikembangkan**, dari antarmuka sampai backend. Di luar itu, saya tertarik pada **keamanan jaringan**, **analisis data**, dan pemanfaatan **AI agent** dalam proses pemrograman.
+
+| | |
+|---|---|
+| 🎯 **Fokus** | Web Development (Frontend & Backend) |
+| 📚 **Sedang dipelajari** | Laravel, Auth & RBAC, TypeScript, Docker |
+| 🔐 **Minat** | Network Security, Data Analysis, AI Agent |
+| 🤝 **Terbuka untuk** | Kolaborasi, diskusi, dan belajar bareng |
+
+</td>
+<td width="48%" valign="top">
+
+```ts
+const rizkkk = {
+  name: "Rizky Dwi Rhamadani",
+  role: "Web Developer",
+  campus: "Universitas AMIKOM Yogyakarta",
+  stack: ["Laravel", "TypeScript", "Docker"],
+  learning: ["RBAC", "Security", "AI Agent"],
+  currentlyBuilding: "Portfolio & web projects",
+  motto: "Build. Break. Learn. Repeat.",
+} as const;
+```
+
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
+
+<h2 align="center">Tech Stack</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="180"><b>Languages</b></td>
+<td><img src="https://skillicons.dev/icons?i=ts,js,php,py,html,css&theme=dark" alt="languages" /></td>
+</tr>
+<tr>
+<td align="center"><b>Frameworks<br/>& Platform</b></td>
+<td><img src="https://skillicons.dev/icons?i=laravel,tailwind,docker&theme=dark" alt="frameworks" /></td>
+</tr>
+<tr>
+<td align="center"><b>Database</b></td>
+<td><img src="https://skillicons.dev/icons?i=mysql&theme=dark" alt="database" /></td>
+</tr>
+<tr>
+<td align="center"><b>Tools & Cloud</b></td>
+<td><img src="https://skillicons.dev/icons?i=git,github,vscode,ubuntu,figma,aws&theme=dark" alt="tools" /></td>
+</tr>
+<tr>
+<td align="center"><b>Design</b></td>
+<td><img src="https://skillicons.dev/icons?i=figma,ps,wordpress&theme=dark" alt="design" /></td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
+
+<h2 align="center">Journey</h2>
+
+<table align="center">
+<tr>
+<td align="center" width="170"><b>2026</b></td>
+<td>
+<b>Anggota Divisi Frontend Web Programming</b> · AMCC (AMIKOM Computer Club)<br/>
+<sub>April – Juli 2026</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><b>2025 – Sekarang</b></td>
+<td>
+<b>D3 Teknik Informatika</b> · Universitas AMIKOM Yogyakarta<br/>
+<sub>Konsentrasi Web Programming</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><b>2025</b></td>
+<td>
+<b>Lulus MA Nurul Hidayah</b><br/>
+<sub>Jurusan IPA</sub>
+</td>
+</tr>
+<tr>
+<td align="center"><b>2023 – 2024</b></td>
+<td>
+<b>Ketua OSIS</b> · MA Nurul Hidayah<br/>
+<sub>Memimpin 25+ anggota</sub>
+</td>
+</tr>
+</table>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
+
+<h2 align="center">Featured Projects</h2>
+
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 📊 Sistem Rekapitulasi Nilai
+Sistem manajemen nilai akademik dengan **tiga peran pengguna** dan fokus pada UI/UX yang rapi.
+
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![Status](https://img.shields.io/badge/status-in_progress-f59e0b?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🔑 Auth Monolith
+Autentikasi dan **Role-Based Access Control** dengan arsitektur modular monolith.
+
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![RBAC](https://img.shields.io/badge/RBAC-1f6feb?style=flat-square)
+![Status](https://img.shields.io/badge/status-learning-a371f7?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### 🏥 Pencarian Faskes Terdekat
+Aplikasi untuk menemukan **rumah sakit, klinik, puskesmas, dan apotek** terdekat.
+
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![Status](https://img.shields.io/badge/status-UI_phase-f59e0b?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+### 🛡️ Server Hardening
+Dokumentasi **hardening dan pengujian keamanan** pada Ubuntu Server.
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu_Server-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Security](https://img.shields.io/badge/Security-db2777?style=flat-square)
+![Status](https://img.shields.io/badge/status-documented-15803d?style=flat-square)
+
+</td>
+</tr>
+</table>
+
+> 💡 Tambahkan link repo pada judul project, contoh: `### [Auth Monolith](https://github.com/07rizkyramadani-debug/nama-repo)`
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
+
+<h2 align="center">Certifications</h2>
+
+<div align="center">
+
+**AWS Academy**
+
+![Cloud Developing](https://img.shields.io/badge/Cloud_Developing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Cloud Security Foundations](https://img.shields.io/badge/Cloud_Security_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![Machine Learning Foundations](https://img.shields.io/badge/Machine_Learning_Foundations-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+![ML for NLP](https://img.shields.io/badge/ML_for_Natural_Language_Processing-232F3E?style=for-the-badge&logo=amazonaws&logoColor=FF9900)
+
+**Cisco Networking Academy**
+
+![Computer Hardware Basics](https://img.shields.io/badge/Computer_Hardware_Basics-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+![Introduction to Modern AI](https://img.shields.io/badge/Introduction_to_Modern_AI-049FD9?style=for-the-badge&logo=cisco&logoColor=white)
+
+**IBM SkillsBuild**
+
+![Build an AI Agent](https://img.shields.io/badge/Build_an_AI_Agent-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+![AI Agent for Programming](https://img.shields.io/badge/AI_Agent_for_Programming-052FAD?style=for-the-badge&logo=ibm&logoColor=white)
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
+
+<h2 align="center">GitHub Stats</h2>
+
+<div align="center">
+
+<img height="175" src="https://github-readme-stats.vercel.app/api?username=07rizkyramadani-debug&show_icons=true&count_private=true&theme=transparent&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=12" alt="GitHub stats" />
+<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07rizkyramadani-debug&layout=compact&theme=transparent&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9&border_color=30363d&border_radius=12" alt="Top languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=07rizkyramadani-debug&theme=transparent&background=0d1117&ring=a371f7&fire=db2777&currStreakLabel=a371f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d&stroke=30363d" alt="Streak" />
+
+<img src="https://github-profile-trophy.vercel.app/?username=07rizkyramadani-debug&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
+
+<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=07rizkyramadani-debug&bg_color=0d1117&color=a371f7&line=7c3aed&point_color=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Activity graph" />
+
+<br/>
+
+<img src="https://raw.githubusercontent.com/07rizkyramadani-debug/07rizkyramadani-debug/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
+
+<h2 align="center">Contact</h2>
+
+<div align="center">
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/LINKEDIN_USERNAME)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/INSTAGRAM_USERNAME)
+[![Email](https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:emailkamu@gmail.com)
+
+<br/>
+
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+
+<br/>
+
+<sub>Terima kasih sudah mampir. Jangan ragu untuk menyapa atau berkolaborasi. ✨</sub>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:db2777,35:7c3aed,70:1f3a8a,100:0d1117&height=130&section=footer" width="100%" alt="footer" />
+
+</div>
