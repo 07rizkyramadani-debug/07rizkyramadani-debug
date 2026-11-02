@@ -109,9 +109,6 @@ const rizkkk = {
 
 <div align="center">
 
-<img height="175" src="https://github-readme-stats.vercel.app/api?username=07rizkyramadani-debug&show_icons=true&count_private=true&theme=transparent&bg_color=0d1117&title_color=a371f7&icon_color=58a6ff&text_color=c9d1d9&border_color=30363d&border_radius=12" alt="GitHub stats" />
-<img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=07rizkyramadani-debug&layout=compact&theme=transparent&bg_color=0d1117&title_color=a371f7&text_color=c9d1d9&border_color=30363d&border_radius=12" alt="Top languages" />
-
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=07rizkyramadani-debug&theme=transparent&background=0d1117&ring=a371f7&fire=db2777&currStreakLabel=a371f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d&stroke=30363d" alt="Streak" />
 
 <img src="https://github-profile-trophy.vercel.app/?username=07rizkyramadani-debug&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
