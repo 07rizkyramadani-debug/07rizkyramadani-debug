@@ -16,12 +16,6 @@
 <a href="#journey"><img src="https://img.shields.io/badge/JOURNEY-a371f7?style=for-the-badge&logo=timescale&logoColor=white" alt="Journey" /></a>
 <a href="#contact"><img src="https://img.shields.io/badge/CONTACT-db2777?style=for-the-badge&logo=maildotru&logoColor=white" alt="Contact" /></a>
 
-<br/><br/>
-
-![Profile Views](https://komarev.com/ghpvc/?username=07rizkyramadani-debug&label=PROFILE%20VIEWS&color=7c3aed&style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/07rizkyramadani-debug?style=for-the-badge&logo=github&color=1f6feb&label=FOLLOWERS)
-![Stars](https://img.shields.io/github/stars/07rizkyramadani-debug?style=for-the-badge&logo=github&color=db2777&label=STARS)
-
 </div>
 
 <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header" width="100%" alt="divider" />
