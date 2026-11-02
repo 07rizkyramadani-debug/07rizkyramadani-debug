@@ -111,10 +111,6 @@ const rizkkk = {
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=07rizkyramadani-debug&theme=transparent&background=0d1117&ring=a371f7&fire=db2777&currStreakLabel=a371f7&sideLabels=c9d1d9&currStreakNum=c9d1d9&sideNums=c9d1d9&dates=8b949e&border=30363d&stroke=30363d" alt="Streak" />
 
-<img src="https://github-profile-trophy.vercel.app/?username=07rizkyramadani-debug&theme=onedark&no-frame=true&no-bg=true&margin-w=10&row=1&column=7" alt="Trophies" />
-
-<img width="95%" src="https://github-readme-activity-graph.vercel.app/graph?username=07rizkyramadani-debug&bg_color=0d1117&color=a371f7&line=7c3aed&point_color=ffffff&area=true&area_color=1f6feb&hide_border=true" alt="Activity graph" />
-
 <br/>
 
 <img src="https://raw.githubusercontent.com/07rizkyramadani-debug/07rizkyramadani-debug/output/github-contribution-grid-snake-dark.svg" alt="Contribution snake" />
