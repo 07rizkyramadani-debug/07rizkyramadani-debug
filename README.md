@@ -6,7 +6,7 @@
 <img src="https://capsule-render.vercel.app/api?type=venom&color=0:0d1117,40:1f3a8a,75:7c3aed,100:db2777&height=260&section=header&text=Rizky%20Dwi%20Rhamadani&fontSize=50&fontColor=ffffff&fontAlignY=40&animation=twinkling&desc=Web%20Developer%20%C2%B7%20Informatics%20Student%20%C2%B7%20Security%20Enthusiast&descAlignY=64&descSize=17&descColor=e6edf3" width="100%" alt="header" />
 
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=A371F7&center=true&vCenter=true&width=720&height=45&lines=Hi%2C+saya+Rizkkk+%F0%9F%91%8B;Membangun+aplikasi+web+yang+rapi+%26+aman;Laravel+%7C+TypeScript+%7C+Docker;Mahasiswa+D3+Teknik+Informatika+%40+AMIKOM;Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3200&pause=1000&color=A371F7&center=true&vCenter=true&width=720&height=45&lines=Hi%2C+saya+Rizky+%F0%9F%91%8B;Laravel+%7C+TypeScript+%7C+Docker;Mahasiswa+D3+Teknik+Informatika+%40+AMIKOM;Build.+Break.+Learn.+Repeat." alt="Typing SVG" />
 </a>
 
 <br/>
